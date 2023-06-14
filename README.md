@@ -9,4 +9,8 @@ Password:tanillevent
 
 Student Panel:
 Iztech Mail: ayseyilmaz@std.iyte.edu.tr
-Password:ayseyilmaz
+Password: ayseyilmaz
+Iztech Mail: gencayturgut@std.iyte.edu.tr
+Password: gencayturgut
+Iztech Mail: zeynepaydin@std.iyte.edu.tr
+Password: zeynepaydin
